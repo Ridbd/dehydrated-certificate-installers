@@ -33,3 +33,6 @@ You can schedule this script with cron. (e.g. once a week)
 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 0 6 * * 1 ~/dehydrated/startle.sh
 ```
+## Alternative links
+# https://www.ultraviolet.network/post/let-s-encrypt-with-fortigate
+# https://www.aventistech.com/import-lets-encrypt-ssl-certificate-to-fortigate-with-cli/
